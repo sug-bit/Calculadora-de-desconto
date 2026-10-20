@@ -1,1 +1,1 @@
-# Test-aula-web
+# Criado calculadora para descontos simples, aula de desenvolvimento web 19/10/2026
